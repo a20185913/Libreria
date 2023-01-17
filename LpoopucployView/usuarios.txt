@@ -1,0 +1,3 @@
+2;yhamil@pucp;lpoo123;2
+1;luis@pucp;lpoo123;1
+3;andy@pucp;lpoo123;2

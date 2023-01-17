@@ -1,0 +1,16 @@
+C:\Users\fernando\Desktop\LPOO LAB\Proyecto2019\Lpoopucploy\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+I:\Lpoo\prueba\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+I:\Lpoo\todo\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+I:\Lpoo\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployModel\Debug\LpoopucployModel.vcxproj.AssemblyReference.cache

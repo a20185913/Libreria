@@ -1,0 +1,17 @@
+﻿  Boceto.cpp
+  Boleta.cpp
+  Cliente.cpp
+  CompraDeMercaderia.cpp
+  ControlDeVenta.cpp
+  estadisticaGeneral.cpp
+  Inventario.cpp
+  Membresia.cpp
+  Personal.cpp
+  Producto.cpp
+  ProductoVendido.cpp
+  reporteGananciaMesxDia.cpp
+  Usuario.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Boceto.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  LpoopucployModel.vcxproj -> E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\Debug\LpoopucployModel.dll

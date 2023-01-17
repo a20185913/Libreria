@@ -1,0 +1,133 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly LpoopucployModel, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class LpoopucployModel.Boceto: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String cantidad : Public
+    System.String nombre : Public
+    System.String PrecioUnitario : Public
+    System.String Importe : Public
+Class LpoopucployModel.Producto: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, Double, System.String, Int32, Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String nombre : Public
+    Double PrecioDeVenta : Public
+    System.String marca : Public
+    Int32 cantidad : Public
+    Double PrecioDeCompra : Public
+Class LpoopucployModel.Membresia: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String nivel : Public
+    System.String FechaInicio : Public
+    System.String FechaFin : Public
+Class LpoopucployModel.Cliente: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String, System.String, System.String, System.String, LpoopucployModel.Membresia): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String nombre : Public
+    System.String ApellidoPaterno : Public
+    System.String ApellidoMaterno : Public
+    System.String dni : Public
+    System.String direccion : Public
+    System.String correo : Public
+    LpoopucployModel.Membresia objMembresia : Public
+Class LpoopucployModel.Usuario: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String correo : Public
+    System.String password : Public
+    Int32 rango : Public
+Class LpoopucployModel.Personal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String, System.String, System.String, System.String, System.String, LpoopucployModel.Usuario): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String nombre : Public
+    System.String ApellidoPaterno : Public
+    System.String ApellidoMaterno : Public
+    System.String dni : Public
+    System.String direccion : Public
+    System.String NumeroDeTelefono : Public
+    System.String edad : Public
+    LpoopucployModel.Usuario objUsuario : Public
+Class LpoopucployModel.Boleta: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String, System.String, System.String, System.String, System.String, Double, LpoopucployModel.Cliente, LpoopucployModel.Personal, System.Collections.Generic.List`1[LpoopucployModel.Producto]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String FechaDeVenta : Public
+    System.String HoraDeVenta : Public
+    System.String moneda : Public
+    System.String ModoDePago : Public
+    System.String direccion : Public
+    System.String telefono : Public
+    System.String ruc : Public
+    Double VentalTotal : Public
+    LpoopucployModel.Cliente objCliente : Public
+    LpoopucployModel.Personal objPersonal : Public
+    System.Collections.Generic.List`1[LpoopucployModel.Producto] listaProducto : Public
+Class LpoopucployModel.CompraDeMercaderia: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, Int32, Double, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String productoNombre : Public
+    Int32 cantidad : Public
+    Double precioUnitario : Public
+    System.String fecha : Public
+    System.String estado : Public
+Class LpoopucployModel.Inventario: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.Collections.Generic.List`1[LpoopucployModel.Producto], System.Collections.Generic.List`1[LpoopucployModel.CompraDeMercaderia]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    System.String fecha : Public
+    System.String hora : Public
+    System.Collections.Generic.List`1[LpoopucployModel.Producto] listaProducto : Public
+    System.Collections.Generic.List`1[LpoopucployModel.CompraDeMercaderia] listaCompraDeMercaderia : Public
+Class LpoopucployModel.ControlDeVenta: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Double, Double, Double, Int32, System.Collections.Generic.List`1[LpoopucployModel.Boleta], System.Collections.Generic.List`1[LpoopucployModel.Inventario]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigo : Public
+    Double ingresos : Public
+    Double gastos : Public
+    Double inversion : Public
+    Int32 CantidadDeVentas : Public
+    System.Collections.Generic.List`1[LpoopucployModel.Boleta] listaBoletas : Public
+    System.Collections.Generic.List`1[LpoopucployModel.Inventario] listaInventario : Public
+Class LpoopucployModel.estadisticaGeneral: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String MES : Public
+    Double gastosExtra : Public
+Class LpoopucployModel.ProductoVendido: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.String, System.String, System.String, Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigoBoleta : Public
+    System.String FechaDeBoleta : Public
+    System.String nombre : Public
+    System.String cantidad : Public
+    Double PrecioUnitario : Public
+Class LpoopucployModel.reporteGananciaxDia: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 dia : Public
+    Double totalGenerado : Public

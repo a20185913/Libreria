@@ -1,0 +1,4 @@
+1;gasto;20/30/50;12:30;ENTREGADO
+1;lapiz de tajador ;domingo, 12 de junio de 2022;12:00;PENDIENTE
+1;lapiz de tajador ;domingo, 12 de junio de 2022;12:00;PENDIENTE
+1;gorra de  farfa;miércoles, 15 de junio de 2022;12:00;PENDIENTE

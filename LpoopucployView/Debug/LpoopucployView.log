@@ -1,0 +1,21 @@
+﻿  frmEditarPedido.cpp
+  frmLogin.cpp
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\frmEstadisticas.h(404,32): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\frmTotalBoletasRealizadas.h(202,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  frmMercaderia.cpp
+  frmNuevoProducto.cpp
+  frmPrincipalGerente.cpp
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\frmEstadisticas.h(404,32): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\frmTotalBoletasRealizadas.h(202,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  frmProductoG.cpp
+  frmRegistrarPedido.cpp
+  main.cpp
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\frmEstadisticas.h(404,32): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\frmTotalBoletasRealizadas.h(202,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\main.cpp(7,34): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generando código...
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\frmNuevoCliente.h(270): warning C4700: se utilizó la variable local 'codigo' sin inicializar
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\frmNuevoCliente.h(270): warning C4700: se utilizó la variable local 'codigo' sin inicializar
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\frmNuevoCliente.h(270): warning C4700: se utilizó la variable local 'codigo' sin inicializar
+  frmCliente.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  LpoopucployView.vcxproj -> E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\Debug\LpoopucployView.exe

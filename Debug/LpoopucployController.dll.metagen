@@ -1,0 +1,140 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly LpoopucployController, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly LpoopucployModel, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class LpoopucployController.BoletaController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    AbrirConexion(): PrivateScope, Public, HideBySig
+    Cerrarconexion(): PrivateScope, Public, HideBySig
+    RegistrarBoleta(Boleta, List`1): PrivateScope, Public, HideBySig
+    eliminar(Int32): PrivateScope, Public, HideBySig
+    Buscarxdos(String, Int32): PrivateScope, Public, HideBySig
+    buscarxpersonal(Int32): PrivateScope, Public, HideBySig
+    Buscarall(): PrivateScope, Public, HideBySig
+    Buscarxcodigo(Int32): PrivateScope, Public, HideBySig
+    Buscarxfecha(String): PrivateScope, Public, HideBySig
+    Ingreso(String): PrivateScope, Public, HideBySig
+Class LpoopucployController.PersonalController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    CerrarConexion(): PrivateScope, Public, HideBySig
+    Abrirconexion(): PrivateScope, Public, HideBySig
+    BuscarUsuario(Int32): PrivateScope, Public, HideBySig
+    buscarPersonalxDNI(String): PrivateScope, Public, HideBySig
+    buscarPersonalAll(): PrivateScope, Public, HideBySig
+    cantidadpersonal(): PrivateScope, Public, HideBySig
+    buscarPersonalxnombre(String): PrivateScope, Public, HideBySig
+    agregarNuevoPersonal(Personal): PrivateScope, Public, HideBySig
+    validarCodigoPersonalExistente(Int32): PrivateScope, Public, HideBySig
+    buscarPersonalxCodigo(Int32): PrivateScope, Public, HideBySig
+    escribirArchivoPersonal(List`1): PrivateScope, Public, HideBySig
+    eliminarPersonal(Int32): PrivateScope, Public, HideBySig
+    editarPersonal(Personal): PrivateScope, Public, HideBySig
+    reporteGatosPersonal(): PrivateScope, Public, HideBySig
+Class LpoopucployController.ClienteController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    CerrarConexion(): PrivateScope, Public, HideBySig
+    Abrirconexion(): PrivateScope, Public, HideBySig
+    BuscarCliente(String): PrivateScope, Public, HideBySig
+    Buscarall(): PrivateScope, Public, HideBySig
+    Agregar(Cliente): PrivateScope, Public, HideBySig
+    Eliminar(String): PrivateScope, Public, HideBySig
+    EscribirArchivo(List`1): PrivateScope, Public, HideBySig
+    ValidarCodigo(Int32): PrivateScope, Public, HideBySig
+    ValidarDni(String): PrivateScope, Public, HideBySig
+    buscarClientexCodigo(Int32): PrivateScope, Public, HideBySig
+    editar(Cliente): PrivateScope, Public, HideBySig
+Class LpoopucployController.MembresiaController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Cerrarconexion(): PrivateScope, Public, HideBySig
+    Abrirconexion(): PrivateScope, Public, HideBySig
+    leermembresia(): PrivateScope, Public, HideBySig
+    Buscarall(): PrivateScope, Public, HideBySig
+    Buscarcodigo(Int32): PrivateScope, Public, HideBySig
+    eliminar(Int32): PrivateScope, Public, HideBySig
+    escribir(List`1): PrivateScope, Public, HideBySig
+    agregar(Membresia): PrivateScope, Public, HideBySig
+    editar(Membresia): PrivateScope, Public, HideBySig
+    Cantidad(String): PrivateScope, Public, HideBySig
+Class LpoopucployController.CompraDeMercaderiaController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    CerrarConexion(): PrivateScope, Public, HideBySig
+    AbrirConexion(): PrivateScope, Public, HideBySig
+    registrarPedido(String, Int32, Double, String, String): PrivateScope, Public, HideBySig
+    BuscarProductoxEstadoyFecha(String, String): PrivateScope, Public, HideBySig
+    BuscarPedidoxCodigo(Int32): PrivateScope, Public, HideBySig
+    actualizarPedido(CompraDeMercaderia): PrivateScope, Public, HideBySig
+    EliminarPedido(Int32): PrivateScope, Public, HideBySig
+    reporteGatosArticulos(String): PrivateScope, Public, HideBySig
+Class LpoopucployController.ControlDeVentaController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GastoArticulo(String): PrivateScope, Public, HideBySig
+Class LpoopucployController.estadisticaGeneralController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    AbrirConexion(): PrivateScope, Public, HideBySig
+    CerrarConexion(): PrivateScope, Public, HideBySig
+    actualizarGastosExtra(String, Double): PrivateScope, Public, HideBySig
+    obtenerGastosExtra(String): PrivateScope, Public, HideBySig
+Class LpoopucployController.UsuarioController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Cerrarconexion(): PrivateScope, Public, HideBySig
+    Abrirconexion(): PrivateScope, Public, HideBySig
+    validarUsuarioYrango(String, String, Int32*, Int32*): PrivateScope, Public, HideBySig
+    validar(String, String): PrivateScope, Public, HideBySig
+    validarnivel(String, String): PrivateScope, Public, HideBySig
+    LeerUsuarioDesdeArchivo(): PrivateScope, Public, HideBySig
+    escribirArchivoUsuario(List`1): PrivateScope, Public, HideBySig
+    ObtenerUsuarioxCodigo(Int32): PrivateScope, Public, HideBySig
+    buscarUsuarioAll(): PrivateScope, Public, HideBySig
+    agregarNuevoUsuario(Usuario): PrivateScope, Public, HideBySig
+    EliminarUsuario(Int32): PrivateScope, Public, HideBySig
+    GrabarUsuarioContra(Int32, String, String): PrivateScope, Public, HideBySig
+    BuscarUsuaarioAll(): PrivateScope, Public, HideBySig
+    EscribirArchivo(List`1): PrivateScope, Public, HideBySig
+    BuscarCodigo(String, String): PrivateScope, Public, HideBySig
+    BuscarUsuario(Int32): PrivateScope, Public, HideBySig
+    GastoPersonal(): PrivateScope, Public, HideBySig
+Class LpoopucployController.ProductoController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    AbrirConexion(): PrivateScope, Public, HideBySig
+    CerrarConexion(): PrivateScope, Public, HideBySig
+    Remix(List`1): PrivateScope, Public, HideBySig
+    costoProducto(): PrivateScope, Public, HideBySig
+    BuscarProductoVendido(Int32): PrivateScope, Public, HideBySig
+    BuscarProductoxNombre(String): PrivateScope, Public, HideBySig
+    BuscarCantidad(): PrivateScope, Public, HideBySig
+    BuscarProductoxNombrev(String, Int32): PrivateScope, Public, HideBySig
+    BuscarProductoAll(): PrivateScope, Public, HideBySig
+    BuscarProductoxCantv(String): PrivateScope, Public, HideBySig
+    BuscaxCodigo(Int32): PrivateScope, Public, HideBySig
+    ActualizoProducto(Producto): PrivateScope, Public, HideBySig
+    EscribirArchivo(List`1): PrivateScope, Public, HideBySig
+    EliminarProducto(Int32): PrivateScope, Public, HideBySig
+    AgregarProducto(Producto): PrivateScope, Public, HideBySig
+    Buscar(String): PrivateScope, Public, HideBySig
+    Validar(String): PrivateScope, Public, HideBySig
+    valida(Int32): PrivateScope, Public, HideBySig
+Class LpoopucployController.ProductoVendidoController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    AbrirConexion(): PrivateScope, Public, HideBySig
+    Cerrarconexion(): PrivateScope, Public, HideBySig
+    generarReportexMes(String): PrivateScope, Public, HideBySig
+    generarReporteComparacionMes(String): PrivateScope, Public, HideBySig
+    RegistraGasto(String, Double): PrivateScope, Public, HideBySig
+    GastoxMes(String): PrivateScope, Public, HideBySig

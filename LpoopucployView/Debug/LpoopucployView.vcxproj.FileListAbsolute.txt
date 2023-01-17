@@ -1,0 +1,436 @@
+C:\Users\fernando\Desktop\LPOO LAB\Proyecto2019\Lpoopucploy\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+C:\Users\fernando\Desktop\LPOO LAB\Proyecto2019\Lpoopucploy\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+C:\Users\fernando\Desktop\LPOO LAB\Proyecto2019\Lpoopucploy\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+C:\Users\fernando\Desktop\LPOO LAB\Proyecto2019\Lpoopucploy\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+C:\Users\fernando\Desktop\LPOO LAB\Proyecto2019\Lpoopucploy\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+C:\Users\fernando\Desktop\LPOO LAB\Proyecto2019\Lpoopucploy\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+C:\Users\fernando\Desktop\LPOO LAB\Proyecto2019\Lpoopucploy\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+I:\Lpoo\prueba\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+I:\Lpoo\prueba\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.SuggestedBindingRedirects.cache
+I:\Lpoo\prueba\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+I:\Lpoo\prueba\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+I:\Lpoo\prueba\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+I:\Lpoo\prueba\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+I:\Lpoo\prueba\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+I:\Lpoo\prueba\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+I:\Lpoo\prueba\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+I:\Lpoo\prueba\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+I:\Lpoo\prueba\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+C:\Users\fernando\Desktop\ENTREGABLE 2 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.SuggestedBindingRedirects.cache
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+I:\Lpoo\nuevo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+C:\Users\fernando\Desktop\YHAMIL ULTIMA ACTUALIZACION\CLIENTE 100%\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.SuggestedBindingRedirects.cache
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmComparacionMes.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+I:\Lpoo\todo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoMasVendido.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmComparacionMes.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoMasVendido.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+C:\Users\fernando\Desktop\Nueva carpeta (8)\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.SuggestedBindingRedirects.cache
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmComparacionMes.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoMasVendido.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+I:\Lpoo\ENTRGABLE 3 - GRUPO 13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmComparacionMes.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoMasVendido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+E:\2022-1\LPOO LAB\PUCPLOY\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.SuggestedBindingRedirects.cache
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmComparacionMes.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoMasVendido.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmComparacionMes.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoMasVendido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+E:\2022-1\LPOO LAB\PUCPLOY\5\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmComparacionMes.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoMasVendido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+E:\2022-1\LPOO LAB\PUCPLOY\8\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+I:\Lpoo\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmGastoProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmComparacionMes.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmGastoProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoMasVendido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+E:\2022-1\LPOO LAB\PUCPLOY\10\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmComparacionMes.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmGastoProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoMasVendido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+E:\2022-1\LPOO LAB\PUCPLOY\12\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.AssemblyReference.cache
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmComparacionMes.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPedido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEditarUsuario.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadistica.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmEstadisticas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmGastoProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmListaBoletasIndividuales.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmLogin.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMembresiaEstadistica.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmMercaderia.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoCliente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmNuevoProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPersonal.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalGerente.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmPrincipalVendedor.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProducto.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoG.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmProductoMasVendido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRealizarVenta.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmRegistrarPedido.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmTotalBoletasRealizadas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVentasRealizadas.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.frmVerBoleta.resources
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.GenerateResource.cache
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployView\Debug\LpoopucployView.vcxproj.CopyComplete

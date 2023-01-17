@@ -1,0 +1,187 @@
+  LpoopucployView.frmCliente.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmComparacionMes.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmEditarCliente.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmEditarPedido.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmEditarPersonal.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmEditarProducto.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmEditarUsuario.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmEstadistica.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmEstadisticas.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmGastoProducto.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmListaBoletasIndividuales.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmLogin.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmMembresiaEstadistica.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmMercaderia.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmNuevoCliente.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmNuevoPersonal.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmNuevoProducto.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmPersonal.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmPrincipalGerente.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmPrincipalVendedor.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmProducto.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmProductoG.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmProductoMasVendido.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmRealizarVenta.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmRegistrarPedido.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmTotalBoletasRealizadas.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmVentasRealizadas.resources - Embedded, ContainedInManifestFile, 
+  LpoopucployView.frmVerBoleta.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly LpoopucployView, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly LpoopucployController, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly LpoopucployModel, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class LpoopucployView.frmNuevoCliente: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LpoopucployView.frmEditarCliente: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(LpoopucployController.ClienteController, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 codigomen : Public
+Class LpoopucployView.frmCliente: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    LpoopucployModel.Cliente objCliente : Public
+  Methods:
+    mostrarGrilla(List`1): PrivateScope, Public, HideBySig
+Class LpoopucployView.frmComparacionMes: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    formatoBuscarMes(String): PrivateScope, Public, HideBySig
+Class LpoopucployView.frmGastoProducto: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LpoopucployView.frmNuevoProducto: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LpoopucployView.frmEditarProducto: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LpoopucployView.frmProductoG: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    LpoopucployModel.Producto objProducto : Public
+  Methods:
+    mostrarGrilla(List`1): PrivateScope, Public, HideBySig
+Class LpoopucployView.frmEditarPedido: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    LpoopucployModel.CompraDeMercaderia dato : Public
+Class LpoopucployView.frmEditarPersonal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(LpoopucployController.PersonalController, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LpoopucployView.frmEditarUsuario: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LpoopucployView.frmEstadistica: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 cuenta : Public
+Class LpoopucployView.frmEstadisticas: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 cuenta : Public
+    Int32 marca : Public
+  Methods:
+    formatoBuscarMes(String): PrivateScope, Public, HideBySig
+Class LpoopucployView.frmVerBoleta: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    mostrarGrilla(List`1): PrivateScope, Public, HideBySig
+Class LpoopucployView.frmListaBoletasIndividuales: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    mostrarGrilla(List`1): PrivateScope, Public, HideBySig
+Class LpoopucployView.frmRegistrarPedido: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LpoopucployView.frmMercaderia: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    mostrarGrilla1(List`1): PrivateScope, Public, HideBySig
+    mostrarGrilla(List`1): PrivateScope, Public, HideBySig
+Class LpoopucployView.frmMembresiaEstadistica: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LpoopucployView.frmProductoMasVendido: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LpoopucployView.frmNuevoPersonal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LpoopucployView.frmPersonal: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    mostrarGrilla(List`1): PrivateScope, Public, HideBySig
+Class LpoopucployView.frmProducto: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    LpoopucployModel.Producto objProducto : Public
+  Methods:
+    mostrarGrilla(List`1): PrivateScope, Public, HideBySig
+Class LpoopucployView.frmRealizarVenta: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Collections.Generic.List`1[LpoopucployModel.Boceto] lista : Public
+    Int32 NumeroBoleta : Public
+  Methods:
+    mostarGrilla(List`1): PrivateScope, Public, HideBySig
+Class LpoopucployView.frmTotalBoletasRealizadas: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    mostarGrilla(List`1): PrivateScope, Public, HideBySig
+Class LpoopucployView.frmVentasRealizadas: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    mostrarGrilla(List`1): PrivateScope, Public, HideBySig
+Class LpoopucployView.frmPrincipalGerente: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LpoopucployView.frmPrincipalVendedor: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class LpoopucployView.frmLogin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

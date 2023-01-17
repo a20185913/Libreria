@@ -1,0 +1,17 @@
+﻿  BoletaController.cpp
+  ClienteController.cpp
+  CompraDeMercaderiaController.cpp
+  ControlDeVentaController.cpp
+  estadisticaGeneralController.cpp
+  MembresiaController.cpp
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployController\MembresiaController.cpp(155,13): warning C4101: 'objMembresia': variable local sin referencia
+  PersonalController.cpp
+  ProductoController.cpp
+  ProductoVendidoController.cpp
+  UsuarioController.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployController\ProductoVendidoController.cpp(80): warning C4700: se utilizó la variable local 'suma' sin inicializar
+E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\LpoopucployController\ControlDeVentaController.cpp(22): warning C4700: se utilizó la variable local 'gasto' sin inicializar
+  BoletaController.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  LpoopucployController.vcxproj -> E:\2022-1\LPOO LAB\PUCPLOY\13\Lpoopucploy\Debug\LpoopucployController.dll

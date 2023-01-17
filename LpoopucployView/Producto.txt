@@ -1,0 +1,6 @@
+1;lapizZ;2;Estanfor;200;0.5
+4;lapizA;50;Artesco;15;45
+2;reglaE;80;estanfor;500;30
+6;reglaA;60;artesco;2;10
+3;borradorE;70;estanfor;900;15
+7;regla;3;artesco;500;1.5
